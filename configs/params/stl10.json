@@ -1,0 +1,10 @@
+{
+    "batch_size": 25,
+    "num_epochs": 500,
+    "nz": 512,
+    "g_lr": 0.001,
+    "d_lr": 0.001,
+    "d_ur": 1,
+    "lrs_ss": 25,
+    "lrs_gamma": 1.0
+}
